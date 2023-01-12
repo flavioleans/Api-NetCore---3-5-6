@@ -1,0 +1,12 @@
+D:\ProjetosC#\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp6.0\Domain.deps.json
+D:\ProjetosC#\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp6.0\Domain.dll
+D:\ProjetosC#\curso_api_netcore\src\Api.Domain\bin\Debug\netcoreapp6.0\Domain.pdb
+D:\ProjetosC#\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp6.0\Domain.csproj.AssemblyReference.cache
+D:\ProjetosC#\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp6.0\Domain.AssemblyInfoInputs.cache
+D:\ProjetosC#\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp6.0\Domain.AssemblyInfo.cs
+D:\ProjetosC#\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp6.0\Domain.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp6.0\Domain.dll
+D:\ProjetosC#\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp6.0\refint\Domain.dll
+D:\ProjetosC#\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp6.0\Domain.pdb
+D:\ProjetosC#\curso_api_netcore\src\Api.Domain\obj\Debug\netcoreapp6.0\ref\Domain.dll

@@ -1,0 +1,16 @@
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.deps.json
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.dll
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csprojAssemblyReference.cache
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfoInputs.cache
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.AssemblyInfo.cs
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.dll
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.pdb
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.dll
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.dll
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.dll
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Service.pdb
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\bin\Debug\netcoreapp3.1\Data.pdb
+D:\ProjetosC#\curso_api_netcore\src\Api.CrossCutting\obj\Debug\netcoreapp3.1\CrossCutting.csproj.CopyComplete

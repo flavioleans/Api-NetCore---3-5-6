@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Api.Domain\Domain.csproj" />
+    <ProjectReference Include="..\Api.Service\Service.csproj" />
+    <ProjectReference Include="..\Api.CrossCutting\CrossCutting.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbukle.AspNetCore" Version="2.0.0" />
+    <!-- <PackageReference Include="Swashbukle.AspNetCore.Swagger" Version="5.6.3" /> -->
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp6.0</TargetFramework>
+  </PropertyGroup>
+
+
+</Project>

@@ -1,0 +1,17 @@
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp6.0\Service.deps.json
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp6.0\Service.dll
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp6.0\Service.pdb
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp6.0\Data.dll
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp6.0\Domain.dll
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp6.0\Domain.pdb
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\bin\Debug\netcoreapp6.0\Data.pdb
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp6.0\Service.csproj.AssemblyReference.cache
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp6.0\Service.AssemblyInfoInputs.cache
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp6.0\Service.AssemblyInfo.cs
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp6.0\Service.csproj.CoreCompileInputs.cache
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp6.0\Service.csproj.CopyComplete
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp6.0\Service.dll
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp6.0\refint\Service.dll
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp6.0\Service.pdb
+D:\ProjetosC#\curso_api_netcore\src\Api.Service\obj\Debug\netcoreapp6.0\ref\Service.dll
